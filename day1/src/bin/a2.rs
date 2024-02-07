@@ -1,6 +1,6 @@
 fn main(){
     println!("second exersice");
-
+    // Basic math code
     let sum = 3+2;
     let value = 10-3;
     let division= 10/2;
