@@ -1,11 +1,3 @@
 fn main(){
-
-}
-enum Flavour {
-    
-    
-}
-struct Drink{
-    flavour: Flavour,
-    fluid_ox: f64,
+    println!("we are in a15")
 }

@@ -1,11 +1,9 @@
-
 enum Color {
     white,
     black,
     red,
     blue,
 }
-
 fn main(){
     color_picker(Color::black);
 }
